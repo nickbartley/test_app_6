@@ -1,3 +1,3 @@
 # README
 
-1. Complete Ruby On Rails Developer
+1. First test repo on the complete Ruby On Rails Developer Course by Nick Bartley
